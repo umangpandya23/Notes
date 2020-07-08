@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nota a si  mismo</string>
+    <string name="hello_world">Hello World!!</string>
+    <string name="action_settings">Configuracion</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="action_add">add</string>
+    <string name="title_hint">Titulo</string>
+    <string name="description_hint">Descripcion</string>
+    <string name="idea_text">Idea</string>
+    <string name="important_text">Importante</string>
+    <string name="todo_text">Que hacer</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="ok_button">Vale</string>
+
+    <string name="settings_title">Configuracion</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>
